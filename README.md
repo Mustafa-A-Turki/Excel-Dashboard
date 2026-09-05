@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Sales Dashboard](images/dashboard.png)
+![Sales Dashboard](Images/Screenshot%202026-09-03%20052108.jpg)
 
 ## About
 Interactive sales dashboard created using Microsoft Excel.
